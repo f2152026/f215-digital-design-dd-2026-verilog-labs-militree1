@@ -26,6 +26,7 @@
 // used for the other three) and run it through the same tb.v. Compare
 // your final delay to cla64_blocked.v from Task 4.
 
+
 module cla64_hier(
   input  [63:0] a,
   input  [63:0] b,
